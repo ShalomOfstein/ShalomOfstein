@@ -26,9 +26,9 @@ In this repository, you'll discover a mix of projects, ideas, and snippets that 
 
 ### Projects
 
-- *[Viking Chess](https://github.com/chanan-hash/My-ariel-university-exercises/tree/main/semster1/EX3):* This is an assignment from my OOP course. I created a strategic board game inspired by historical Viking chess, complete with an interactive GUI for an engaging playing experience.
-- *[RUDP protocol](https://github.com/chanan-hash/Data-Structure-AU):* This repository was for Networks course. I implemented a reliable protocol to ensure data transmission over an unreliable UDP network, tested under various network conditions.
-- *[Course Registration System](https://github.com/chanan-hash/DLS-game):* Developed a comprehensive course registration system where you can sign up as a lecturer, a student, or a teacher's assistant, and create/sign up for different courses and keep track of everything easily.
+- *[Viking Chess](https://github.com/ShalomOfstein/Viking_Chess_OOP_task_1):* This is an assignment from my OOP course. I created a strategic board game inspired by historical Viking chess, complete with an interactive GUI for an engaging playing experience.
+- *[RUDP protocol](https://github.com/ShalomOfstein/NetworkProgramming3):* This repository was for Networks course. I implemented a reliable protocol to ensure data transmission over an unreliable UDP network, tested under various network conditions.
+- *[Course Registration System](https://github.com/ShalomOfstein/Course_Registration_System_OOP_finalProject):* Developed a comprehensive course registration system where you can sign up as a lecturer, a student, or a teacher's assistant, and create/sign up for different courses and keep track of everything easily.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
