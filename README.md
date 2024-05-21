@@ -19,7 +19,7 @@
 Hello there! Welcome to my special GitHub profile repository - *ShalomOfstein*. This repository is a reflection of my journey, interests, and coding adventures. Feel free to explore, collaborate, and get to know me better.
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/ShlaomOfstein/count.svg" />
 </p>
 
 ## 🧔 About Me
