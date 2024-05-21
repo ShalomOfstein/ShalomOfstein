@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shalom Ofstein</h1>
 -->
 <p align="left">
-  <a href="https://www.linkedin.com/in/ShalomOfstein/">
+  <a href="https://www.linkedin.com/in/shalom-ofstein">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Profile"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=shalomofstein&label=Profile%20views&color=0e75b6&style=flat" alt="shalomofstein" />
