@@ -17,6 +17,10 @@
 ![Profile Banner](https://example.com/banner_image.png)
 
 Hello there! Welcome to my special GitHub profile repository - *ShalomOfstein*. This repository is a reflection of my journey, interests, and coding adventures. Feel free to explore, collaborate, and get to know me better.
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 ## 🧔 About Me
 
@@ -27,10 +31,11 @@ I'm Shalom, I am a student for Computer science.
 In this repository, you'll discover a mix of projects, ideas, and snippets that define who I am as a developer and a person. Here's a sneak peek at what you can expect:
 
 ###  Projects
-
+<!--
 - *[Intro2CS_Ex3](https://github.com/chanan-hash/My-ariel-university-exercises/tree/main/semster1/EX3):* This is an assignment we had in Intro2CS course. This assignment includes working with all kind of algorithm ideas, such as BFS algorithm.
 - *[Data Structure](https://github.com/chanan-hash/Data-Structure-AU):* This repository was for data-structure course, all kinds of interesting and implementation for those DS with explanations, are in this repository.
 - *[DLS Game](https://github.com/chanan-hash/DLS-game)*: This is a code for a game that I used to play when I was a kid, and my friends an I wonted to make it as a computer game
+-->
 
 ## 🌱 What's Cooking?
 
