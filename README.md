@@ -1,5 +1,6 @@
-![Profile Banner](./github-header-image.png) 
+<h1 align="center">Hi 👋, I'm Shalom Ofstein</h1>
 <!--
+![Profile Banner](./github-header-image.png) 
 <h1 align="center">Hi 👋, I'm Shalom Ofstein</h1>
 -->
 <p align="left">
