@@ -11,7 +11,7 @@
 
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate Computer Science student at Ariel University specializing in Data Science, Artificial Intelligence, and Machine Learning. Here, you'll find a collection of my projects, coursework, and contributions that showcase my skills and experiences.</h3>
 
-| Statistics 📈 | ⚡ Fun fact |
+| 📈 Statistics | ⚡ Fun fact |
 |:---:|:---:|
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShalomOfstein&show_icons=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShalomOfstein&hide=jupyter%20notebook&layout=compact&langs_count=5&card_width=450)](https://github.com/anuraghazra/github-readme-stats) |
 
