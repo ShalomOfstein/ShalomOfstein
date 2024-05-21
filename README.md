@@ -1,4 +1,7 @@
+![Profile Banner](./github-header-image.png) 
+<!--
 <h1 align="center">Hi 👋, I'm Shalom Ofstein</h1>
+-->
 <p align="left">
   <a href="https://www.linkedin.com/in/ShalomOfstein/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Profile"/>
@@ -11,8 +14,6 @@
 | Statistics 📈 | ⚡ Fun fact |
 |:---:|:---:|
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShalomOfstein&show_icons=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShalomOfstein&hide=jupyter%20notebook&layout=compact&langs_count=5&card_width=450)](https://github.com/anuraghazra/github-readme-stats) |
-
-![Profile Banner](./github-header-image.png) <!-- Replace with your actual banner image URL -->
 
 ## 👨‍💼 About Me
 - **Education:** Pursuing a Bachelor's Degree in Computer Science at Ariel University, with a focus on Data Science and AI/ML.
