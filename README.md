@@ -12,16 +12,7 @@
 |:---:|:---:|
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShalomOfstein&show_icons=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShalomOfstein&hide=jupyter%20notebook&layout=compact&langs_count=5&card_width=450)](https://github.com/anuraghazra/github-readme-stats) |
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShalomOfstein) 
-<!--
-![GitHub stars](https://img.shields.io/github/stars/ShalomOfstein/your-repo.svg?style=social)
-
-![GitHub followers](https://img.shields.io/github/followers/ShalomOfstein.svg?style=social)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/ShalomOfstein/your-repo.svg)
--->
-
-![Profile Banner](https://example.com/banner_image.png) <!-- Replace with your actual banner image URL -->
+![Profile Banner](./github-header-image.png) <!-- Replace with your actual banner image URL -->
 
 ## 👨‍💼 About Me
 - **Education:** Pursuing a Bachelor's Degree in Computer Science at Ariel University, with a focus on Data Science and AI/ML.
