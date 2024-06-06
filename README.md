@@ -70,7 +70,6 @@ In this repository, you'll discover a mix of projects, ideas, and snippets that 
 I'm always experimenting and learning. Here are some areas I'm currently diving into:
 
 - **Advanced Algorithms:** In the following semester, I will learn advanced algorithms such as the Hungarian Method (a computational technique used to solve the assignment problem in polynomial time) and upload the implementations here.
-- https://github.com/ShalomOfstein/ComputerVision_Ex1
 - **[Computer Vision Algorithms](https://github.com/ShalomOfstein/ComputerVision_Ex1):** In addition to the algorithms course, I will learn CV algorithms and their different uses.
 - **Artificial intelligence Algorithms:** I am currently working on a Bayesian Network and its inference methods Variable Elimination (VE) and Bayes Ball.
 
