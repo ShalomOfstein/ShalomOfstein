@@ -73,7 +73,7 @@ I'm always experimenting and learning. Here are some areas I'm currently diving 
 
 - **Advanced Algorithms:** In the following semester, I will learn advanced algorithms such as the Hungarian Method (a computational technique used to solve the assignment problem in polynomial time) and upload the implementations here.
 - **[Computer Vision Algorithms](https://github.com/ShalomOfstein/ComputerVision_Ex1):** I am currently taking a course in Computer Vision and Image Processing. In this repository, you will find implementations of several popular CV algorithms.
-- **[Machine Learning Models](https://github.com/ShalomOfstein/Basic_ML_Models)** This is a collection of implementations for Naive Bayes, Linear Regression, and Logistic Regression models with custom functionalities and evaluation metrics.
+- **[Machine Learning Models]** This is a collection of implementations for Naive Bayes, Linear Regression, and Logistic Regression models with custom functionalities and evaluation metrics.
 
 ## 🤝 Let's Connect
 
