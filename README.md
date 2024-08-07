@@ -26,7 +26,7 @@
 In this repository, you'll discover a mix of projects, ideas, and snippets that define who I am as a developer and a person. Here's a sneak peek at what you can expect:
 
 ### Projects
-
+- *[Machine Learning Models](https://github.com/ShalomOfstein/Basic_ML_Models)* This is a collection of implementations for Naive Bayes, Linear Regression, and Logistic Regression models with custom functionalities and evaluation metrics.
 - *[Viking Chess](https://github.com/ShalomOfstein/Viking_Chess_OOP_task_1):* This is an assignment from my OOP course. I created a strategic board game inspired by historical Viking chess, complete with an interactive GUI for an engaging playing experience.
 - *[RUDP protocol](https://github.com/ShalomOfstein/NetworkProgramming3):* This repository was for Networks course. I implemented a reliable protocol to ensure data transmission over an unreliable UDP network, tested under various network conditions.
 - *[Course Registration System](https://github.com/ShalomOfstein/Course_Registration_System_OOP_finalProject):* Developed a comprehensive course registration system where you can sign up as a lecturer, a student, or a teacher's assistant, and create/sign up for different courses and keep track of everything easily.
@@ -73,7 +73,7 @@ I'm always experimenting and learning. Here are some areas I'm currently diving 
 
 - **Advanced Algorithms:** In the following semester, I will learn advanced algorithms such as the Hungarian Method (a computational technique used to solve the assignment problem in polynomial time) and upload the implementations here.
 - **[Computer Vision Algorithms](https://github.com/ShalomOfstein/ComputerVision_Ex1):** I am currently taking a course in Computer Vision and Image Processing. In this repository, you will find implementations of several popular CV algorithms.
-- **[Machine Learning Models](https://github.com/ShalomOfstein/Basic_ML_Models)** This is a collection of implementations for Naive Bayes, Linear Regression, and Logistic Regression models with custom functionalities and evaluation metrics.
+
 
 ## 🤝 Let's Connect
 
