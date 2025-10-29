@@ -31,7 +31,7 @@ In this repository, you'll discover a mix of projects, ideas, and snippets that 
 - *[RUDP protocol](https://github.com/ShalomOfstein/NetworkProgramming3):* This repository was for Networks course. I implemented a reliable protocol to ensure data transmission over an unreliable UDP network, tested under various network conditions.
 - *[Course Registration System](https://github.com/ShalomOfstein/Course_Registration_System_OOP_finalProject):* Developed a comprehensive course registration system where you can sign up as a lecturer, a student, or a teacher's assistant, and create/sign up for different courses and keep track of everything easily.
 - *[Artificial intelligence Algorithms](https://github.com/ShalomOfstein/BayesianNetworkProject):* This project demonstrates my implementation of Bayesian Networks, focusing on efficient probability calculations through Variable Elimination (VE) and Bayes Ball inference methods. The project highlights my ability to model complex probabilistic relationships and optimize computational efficiency in AI algorithms.
-- *[Fake-News Classifier](https://github.com/ShalomOfstein/Fake-News-Classifier)A machine learning project that detects and classifies news articles as real or fake using NLP techniques and deep learning models to combat misinformation.
+- *[Fake-News Classifier](https://github.com/ShalomOfstein/Fake-News-Classifier):* A machine learning project that detects and classifies news articles as real or fake using NLP techniques and deep learning models to combat misinformation.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
