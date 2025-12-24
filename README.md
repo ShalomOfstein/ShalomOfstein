@@ -12,9 +12,8 @@
 
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate Computer Science student at Ariel University specializing in Data Science, Artificial Intelligence, and Machine Learning. Here, you'll find a collection of my projects, coursework, and contributions that showcase my skills and experiences.</h3>
 
-| 📈 Statistics | ⚡ Fun fact |
-|:---:|:---:|
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShalomOfstein&show_icons=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShalomOfstein&hide=jupyter%20notebook&layout=compact&langs_count=5&card_width=450)](https://github.com/anuraghazra/github-readme-stats) |
+| 📈 Statistics |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShalomOfstein&hide=jupyter%20notebook&layout=compact&langs_count=5&card_width=450)](https://github.com/anuraghazra/github-readme-stats) |
 
 ## 👨‍💼 About Me
 - **Education:** Pursuing a Bachelor's Degree in Computer Science at Ariel University, with a focus on Data Science and AI/ML.
@@ -32,6 +31,7 @@ In this repository, you'll discover a mix of projects, ideas, and snippets that 
 - *[Course Registration System](https://github.com/ShalomOfstein/Course_Registration_System_OOP_finalProject):* Developed a comprehensive course registration system where you can sign up as a lecturer, a student, or a teacher's assistant, and create/sign up for different courses and keep track of everything easily.
 - *[Artificial intelligence Algorithms](https://github.com/ShalomOfstein/BayesianNetworkProject):* This project demonstrates my implementation of Bayesian Networks, focusing on efficient probability calculations through Variable Elimination (VE) and Bayes Ball inference methods. The project highlights my ability to model complex probabilistic relationships and optimize computational efficiency in AI algorithms.
 - *[Fake-News Classifier](https://github.com/ShalomOfstein/Fake-News-Classifier):* A machine learning project that detects and classifies news articles as real or fake using NLP techniques and deep learning models to combat misinformation.
+- *[Galaxy Image Classifier](https://github.com/SapirDahan/Galaxy10_Classifiers):* This project evaluates a broad range of machine learning models on the Galaxy10 dataset, comparing classical classifiers trained on pretrained embeddings to end-to-end convolutional neural networks. The results show that classical models can achieve competitive performance when high-quality features are used.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
